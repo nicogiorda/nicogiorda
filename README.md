@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/">LinkedIn</a> · <a href="mailto:nicolasgiordano1505@gmail.com">Email</a> · <a href="#-projects">Projects</a> · <a href="#-community">imas+</a>
+  <a href="#-whoami">About me</a> · <a href="#-connect">Connect</a> · <a href="#-projects">Projects</a> · <a href="#-community">imas+</a>
 </p>
 
 ## `> whoami`
@@ -41,6 +41,19 @@ const nico = {
   also: "Graphic design & visual identity",
 };
 ```
+
+## `> connect`
+
+**Connect with me**
+
+<p>
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28" /></a>
+  &nbsp; <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/">Nicolas Giordano on LinkedIn</a>
+</p>
+<p>
+  <a href="mailto:nicolasgiordano1505@gmail.com"><img src="./assets/email.svg" alt="Email" width="28" height="28" /></a>
+  &nbsp; <a href="mailto:nicolasgiordano1505@gmail.com">nicolasgiordano1505@gmail.com</a>
+</p>
 
 ## `> community`
 
@@ -102,14 +115,6 @@ Technologies and tools from my software and academic projects.
 **Design tools**
 
 <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
-
-## `> connect`
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-giordano/).
-
-[nicolasgiordano1505@gmail.com](mailto:nicolasgiordano1505@gmail.com)
-
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/linkedin.svg" alt="Nicolás Giordano on LinkedIn" width="36" height="36" /></a>
 
 <!-- Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
 Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
