@@ -119,9 +119,10 @@ Technologies and tools from my software and academic projects.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Super_Mario.gif" alt="Super Mario jumping through a classic pixel-art level" width="200" /><br />
+  <a href="https://tenor.com/view/resident-evil-resident-evil-4-re4-gif-5655377906703222423"><img src="./assets/resident-evil.gif" alt="Resident Evil 4 characters in animated pixel art" width="220" /></a><br />
   <samp>turning &ldquo;what if?&rdquo; into projects.</samp>
 </p>
 
-<!-- Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
+<!-- Resident Evil 4 pixel-art GIF: Leonkennedyyy on Tenor, https://tenor.com/view/resident-evil-resident-evil-4-re4-gif-5655377906703222423.
+Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
 Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
