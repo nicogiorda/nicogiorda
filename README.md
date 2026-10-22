@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/">LinkedIn</a> · <a href="#-projects">Projects</a> · <a href="#-community">imas+</a>
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/">LinkedIn</a> · <a href="mailto:nicolasgiordano1505@gmail.com">Email</a> · <a href="#-projects">Projects</a> · <a href="#-community">imas+</a>
 </p>
 
 ## `> whoami`
@@ -55,25 +55,44 @@ const nico = {
 
 ## `> projects`
 
-### 🎓 [Kreis](https://github.com/nicogiorda/Kreis)
-
-A mobile-first application for university communities and events, helping students discover activities and connect through shared interests.
-
-**My role — Frontend Lead & Branding:** frontend development and interface implementation, with contributions to the backend. I also worked on the visual identity. Built collaboratively with an eight-person team.
-
-`React` `TypeScript` `Vite` `Node.js` `Prisma` `PostgreSQL`
-
-[Explore the repository →](https://github.com/nicogiorda/Kreis)
-
-### 🪰 [fly-crossy-connectome](https://github.com/Matias-Sanmiguel/fly-crossy-connectome)
-
-A collaborative 3D Crossy Road-style browser experiment where a reduced fly connectome drives autonomous gameplay, alongside a live view of simulated neural activity.
-
-**My involvement — Contributor** to the collaborative project, exploring the intersection of software, games, and neural simulation.
-
-`TypeScript` `Python` `Simulation` `Docker`
-
-[Explore the repository →](https://github.com/Matias-Sanmiguel/fly-crossy-connectome)
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="left">🎓 Kreis</th>
+      <th width="50%" align="left">🪰 fly-crossy-connectome</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <p><strong>University life, connected.</strong></p>
+        <p>A mobile-first app where students discover events and join communities around shared interests.</p>
+      </td>
+      <td valign="top">
+        <p><strong>A fly connectome plays Crossy Road.</strong></p>
+        <p>A 3D browser experiment with autonomous gameplay and a live view of simulated neural activity.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <p><strong>My role · Frontend Lead &amp; Branding</strong></p>
+        <p>Frontend development, interfaces, and visual identity, with backend contributions. Built with an eight-person team.</p>
+      </td>
+      <td valign="top">
+        <p><strong>My role · Contributor</strong></p>
+        <p>Collaboration on a project bringing together browser games, software, and neural simulation.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Node.js</code> <code>Prisma</code> <code>PostgreSQL</code></td>
+      <td valign="top"><code>TypeScript</code> <code>Python</code> <code>Docker</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nicogiorda/Kreis">Explore Kreis →</a></td>
+      <td><a href="https://github.com/Matias-Sanmiguel/fly-crossy-connectome">Explore fly-crossy-connectome →</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## `> toolbox`
 
@@ -87,13 +106,15 @@ Technologies and tools from my software and academic projects.
 
 <img src="./assets/stack-data.svg" alt="PostgreSQL, MongoDB, Redis, Neo4j, Prisma, Docker, Git" height="48" />
 
-**Complementary skills — design tools**
+**Design tools**
 
 <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" height="48" />
 
 ## `> connect`
 
-Interested in software development, technical projects, or student communities? [Let's connect on LinkedIn.](https://www.linkedin.com/in/nicol%C3%A1s-giordano/)
+Have an idea, a project, or something to share? Let's talk.
+
+[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-giordano/) · [nicolasgiordano1505@gmail.com](mailto:nicolasgiordano1505@gmail.com)
 
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/linkedin.svg" alt="Nicolás Giordano on LinkedIn" width="36" height="36" /></a>
 
