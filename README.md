@@ -1,10 +1,12 @@
-# Hey, I'm Nicolás 👋
+# Nico.exe has entered the chat.
+
+<img align="right" src="./assets/cat-typing.gif" alt="A cat enthusiastically typing on a keyboard" width="100" />
 
 **Computer Engineering student at UADE · Developer & Graphic Designer**
 
 I study at **Universidad Argentina de la Empresa (UADE)** and combine software development with graphic design. I enjoy working on interfaces, visual identity, and collaborative projects — bringing together how things work and how they feel.
 
-<img src="./assets/terminal.gif" alt="Code, design and community. Learning, building and sharing." width="440" />
+*Making things work. Then making them look good.*
 
 [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-giordano/) · [Projects](#-projects) · [imas+](#-community)
 
@@ -85,4 +87,5 @@ Interested in software, design, or student communities? [Let's connect on Linked
 
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/linkedin.svg" alt="Nicolás Giordano on LinkedIn" width="36" height="36" /></a>
 
-<!-- Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
+<!-- Intro animation: sindresorhus/sindresorhus (MIT), see assets/LICENSE-sindresorhus.txt.
+Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
