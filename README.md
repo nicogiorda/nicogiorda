@@ -58,38 +58,26 @@ const nico = {
 <table>
   <thead>
     <tr>
-      <th width="50%" align="left">🎓 Kreis</th>
-      <th width="50%" align="left">🪰 fly-crossy-connectome</th>
+      <th align="left">Project</th>
+      <th align="left">Overview</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
-        <p><strong>University life, connected.</strong></p>
-        <p>A mobile-first app where students discover events and join communities around shared interests.</p>
-      </td>
-      <td valign="top">
-        <p><strong>A fly connectome plays Crossy Road.</strong></p>
-        <p>A 3D browser experiment with autonomous gameplay and a live view of simulated neural activity.</p>
+      <td valign="top" width="25%"><strong>🎓 <a href="https://github.com/nicogiorda/Kreis">Kreis</a></strong></td>
+      <td>
+        <p>A mobile-first app where university students discover events and join communities around shared interests.</p>
+        <p><strong>Frontend Lead &amp; Branding</strong> — frontend development, interfaces, and visual identity, with backend contributions. Built with an eight-person team.</p>
+        <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Node.js</code> <code>Prisma</code> <code>PostgreSQL</code>
       </td>
     </tr>
     <tr>
-      <td valign="top">
-        <p><strong>My role · Frontend Lead &amp; Branding</strong></p>
-        <p>Frontend development, interfaces, and visual identity, with backend contributions. Built with an eight-person team.</p>
+      <td valign="top"><strong>🪰 <a href="https://github.com/Matias-Sanmiguel/fly-crossy-connectome">fly-crossy-connectome</a></strong></td>
+      <td>
+        <p>A 3D Crossy Road-style browser experiment where a reduced fly connectome drives autonomous gameplay, alongside a live view of simulated neural activity.</p>
+        <p><strong>Contributor</strong> — collaboration on a project bringing together browser games, software, and neural simulation.</p>
+        <code>TypeScript</code> <code>Python</code> <code>Docker</code>
       </td>
-      <td valign="top">
-        <p><strong>My role · Contributor</strong></p>
-        <p>Collaboration on a project bringing together browser games, software, and neural simulation.</p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Node.js</code> <code>Prisma</code> <code>PostgreSQL</code></td>
-      <td valign="top"><code>TypeScript</code> <code>Python</code> <code>Docker</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nicogiorda/Kreis">Explore Kreis →</a></td>
-      <td><a href="https://github.com/Matias-Sanmiguel/fly-crossy-connectome">Explore fly-crossy-connectome →</a></td>
     </tr>
   </tbody>
 </table>
@@ -100,21 +88,21 @@ Technologies and tools from my software and academic projects.
 
 **Languages & application development**
 
-<img src="./assets/stack-development.svg" alt="Java, Python, JavaScript, TypeScript, React, Vite, Node.js" height="48" />
+<img src="./assets/stack-development.svg" alt="Java, Python, JavaScript, TypeScript, React, Vite, Node.js" width="225" height="28" />
 
 **Databases & development tools**
 
-<img src="./assets/stack-data.svg" alt="PostgreSQL, MongoDB, Redis, Neo4j, Prisma, Docker, Git" height="48" />
+<img src="./assets/stack-data.svg" alt="PostgreSQL, MongoDB, Redis, Neo4j, Prisma, Docker, Git" width="225" height="28" />
 
 **Design tools**
 
-<img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" height="48" />
+<img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
 
 ## `> connect`
 
-Have an idea, a project, or something to share? Let's talk.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-giordano/).
 
-[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-giordano/) · [nicolasgiordano1505@gmail.com](mailto:nicolasgiordano1505@gmail.com)
+[nicolasgiordano1505@gmail.com](mailto:nicolasgiordano1505@gmail.com)
 
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/linkedin.svg" alt="Nicolás Giordano on LinkedIn" width="36" height="36" /></a>
 
