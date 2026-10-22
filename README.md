@@ -100,35 +100,43 @@ const nico = {
   </tbody>
 </table>
 
-<h2 align="center"><code>&gt; toolbox</code></h2>
+## `> toolbox`
 
-<p align="center">Languages, tools, and platforms I use across my projects.</p>
+Languages, tools, and platforms I use across my projects.
 
-<p align="center">
-  <strong>Languages</strong><br /><br />
-  <img src="./assets/stack-languages.svg" alt="Java, Python, JavaScript, TypeScript, HTML, CSS" width="192" height="28" />
-</p>
-
-<p align="center">
-  <strong>Frameworks &amp; runtimes</strong><br /><br />
-  <img src="./assets/stack-frameworks.svg" alt="React, Vite, Node.js, Express, Spring, Tailwind CSS" width="192" height="28" />
-</p>
-
-<p align="center">
-  <strong>Databases &amp; ORM</strong><br /><br />
-  <img src="./assets/stack-databases.svg" alt="PostgreSQL, MongoDB, Neo4j, Redis, Cassandra, Prisma, Supabase" width="225" height="28" />
-</p>
-
-<p align="center">
-  <strong>Version control &amp; deployment</strong><br /><br />
-  <img src="./assets/stack-platforms.svg" alt="Git, GitHub, Docker, Vercel" width="126" height="28" />
-  <img src="./assets/render.svg" alt="Render" width="28" height="28" />
-</p>
-
-<p align="center">
-  <strong>Design</strong><br /><br />
-  <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>Languages</strong><br /><br />
+      <img src="./assets/stack-languages.svg" alt="Java, Python, JavaScript, TypeScript, HTML, CSS" width="192" height="28" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>Frameworks &amp; runtimes</strong><br /><br />
+      <img src="./assets/stack-frameworks.svg" alt="React, Vite, Node.js, Express, Spring, Tailwind CSS" width="192" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>Databases &amp; ORM</strong><br /><br />
+      <img src="./assets/stack-databases.svg" alt="PostgreSQL, MongoDB, Neo4j, Redis, Cassandra, Prisma, Supabase" width="225" height="28" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>Deployment</strong><br /><br />
+      <img src="./assets/stack-deployment.svg" alt="Docker, Vercel" width="61" height="28" />
+      <img src="./assets/render.svg" alt="Render" width="28" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>Version control</strong><br /><br />
+      <img src="./assets/stack-git.svg" alt="Git, GitHub" width="61" height="28" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>Design</strong><br /><br />
+      <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
+    </td>
+  </tr>
+</table>
 
 ---
 
