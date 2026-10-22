@@ -119,10 +119,10 @@ Technologies and tools from my software and academic projects.
 ---
 
 <p align="center">
-  <a href="https://tenor.com/view/resident-evil-resident-evil-4-re4-gif-5655377906703222423"><img src="./assets/resident-evil.gif" alt="Resident Evil 4 characters in animated pixel art" width="220" /></a><br />
+  <a href="https://tenor.com/view/emoji-mate-mate-mates-emoji-tomando-mates-emoji-tomando-mate-gif-5995996843990285223"><img src="./assets/mate.gif" alt="Animated emoji drinking mate" width="200" /></a><br />
   <samp>turning &ldquo;what if?&rdquo; into projects.</samp>
 </p>
 
-<!-- Resident Evil 4 pixel-art GIF: Leonkennedyyy on Tenor, https://tenor.com/view/resident-evil-resident-evil-4-re4-gif-5655377906703222423.
+<!-- Mate GIF: MatiasG15 on Tenor, https://tenor.com/view/emoji-mate-mate-mates-emoji-tomando-mates-emoji-tomando-mate-gif-5995996843990285223.
 Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
 Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
