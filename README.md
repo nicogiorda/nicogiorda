@@ -116,5 +116,12 @@ Technologies and tools from my software and academic projects.
 
 <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/wave.gif" alt="Waving goodbye" width="32" height="32" /><br />
+  <samp>Thanks for stopping by.</samp>
+</p>
+
 <!-- Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
 Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
