@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="fly-crossy-connectome">
+<rect x="1" y="1" width="598" height="258" rx="16" fill="#0d1117" stroke="#30363d"/>
+<rect x="26" y="30" width="7" height="7" rx="2" fill="#b6a1ff"/>
+<g font-family="Segoe UI, Arial, sans-serif"><text x="44" y="38" fill="#8b949e" font-size="13" letter-spacing="2">02 / COLLABORATIVE EXPERIMENT</text>
+<text x="26" y="95" fill="#f0f6fc" font-size="30" font-weight="700">fly-crossy-connectome</text>
+<text x="26" y="133" fill="#b1bac4" font-size="17">A fly connectome meets a 3D browser game.</text>
+<text x="26" y="159" fill="#b1bac4" font-size="17">Autonomous gameplay and live neural activity.</text>
+<path d="M26 184H574" stroke="#21262d"/>
+<text x="26" y="219" fill="#b6a1ff" font-size="15">TypeScript · Python · Simulation</text>
+<path d="M553 207h15m-6-6 6 6-6 6" fill="none" stroke="#b6a1ff" stroke-width="2"/>
+</g></svg>
