@@ -119,7 +119,7 @@ Technologies and tools from my software and academic projects.
 ---
 
 <p align="center">
-  <a href="https://tenor.com/view/emoji-mate-mate-mates-emoji-tomando-mates-emoji-tomando-mate-gif-5995996843990285223"><img src="./assets/mate.gif" alt="Animated emoji drinking mate" width="200" /></a><br />
+  <a href="https://tenor.com/view/emoji-mate-mate-mates-emoji-tomando-mates-emoji-tomando-mate-gif-5995996843990285223"><img src="./assets/mate-transparent.gif" alt="Animated emoji drinking mate" width="200" /></a><br />
   <samp>turning &ldquo;what if?&rdquo; into projects.</samp>
 </p>
 
