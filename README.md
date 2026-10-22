@@ -1,10 +1,9 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/name-light.svg" />
-    <img src="./assets/name-dark.svg" alt="Nicolas Giordano" width="1000" />
-  </picture>
-</p>
+<!-- Nicolas Giordano: character-based typography, not an image. -->
+<pre align="center">
+┏┓╻╻┏━╸┏━┓╻  ┏━┓┏━┓   ┏━╸╻┏━┓┏━┓╺┳┓┏━┓┏┓╻┏━┓
+┃┗┫┃┃  ┃ ┃┃  ┣━┫┗━┓   ┃╺┓┃┃ ┃┣┳┛ ┃┃┣━┫┃┗┫┃ ┃
+╹ ╹╹┗━╸┗━┛┗━╸╹ ╹┗━┛   ┗━┛╹┗━┛╹┗╸╺┻┛╹ ╹╹ ╹┗━┛
+</pre>
 
 <p align="center"><samp>COMPUTER ENGINEERING @ UADE · SOFTWARE DEVELOPMENT</samp></p>
 
