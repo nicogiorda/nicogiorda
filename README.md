@@ -119,7 +119,7 @@ Technologies and tools from my software and academic projects.
 ---
 
 <p align="center">
-  <a href="https://tenor.com/view/bulb-gif-123972732085245085"><img src="https://media.tenor.com/AbhwiwHGlJ0AAAAj/bulb.gif" alt="An animated pixel-art light bulb" width="100" height="100" /></a><br />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Super_Mario.gif" alt="Super Mario jumping through a classic pixel-art level" width="200" /><br />
   <samp>turning &ldquo;what if?&rdquo; into projects.</samp>
 </p>
 
