@@ -119,8 +119,8 @@ Technologies and tools from my software and academic projects.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/wave.gif" alt="Waving goodbye" width="32" height="32" /><br />
-  <samp>Thanks for stopping by.</samp>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="A developer working at a laptop" width="180" /><br />
+  <samp>turning &ldquo;what if?&rdquo; into projects.</samp>
 </p>
 
 <!-- Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
