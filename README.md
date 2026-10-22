@@ -1,4 +1,10 @@
-<h1 align="center">Nicolas Giordano</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/name-light.svg" />
+    <img src="./assets/name-dark.svg" alt="Nicolas Giordano" width="1000" />
+  </picture>
+</p>
 
 <p align="center"><samp>COMPUTER ENGINEERING @ UADE · SOFTWARE DEVELOPMENT</samp></p>
 
