@@ -121,24 +121,14 @@ const nico = {
 
 <p align="center">
   <strong>Version control &amp; deployment</strong><br /><br />
-  <img src="./assets/stack-platforms.svg" alt="Git, GitHub, Docker, Vercel" width="126" height="28" /><br /><code>Render</code>
+  <img src="./assets/stack-platforms.svg" alt="Git, GitHub, Docker, Vercel" width="126" height="28" />
+  <img src="./assets/render.svg" alt="Render" width="28" height="28" />
 </p>
 
 <p align="center">
   <strong>Design</strong><br /><br />
   <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
 </p>
-
-<p align="center">
-  <strong>Testing &amp; code quality</strong><br /><br />
-  <code>Vitest</code> <code>Testing Library</code> <code>ESLint</code> <code>Prettier</code>
-</p>
-
-<p align="center">
-  <strong>Workflow &amp; networking</strong><br /><br />
-  <code>Trello</code> <code>Scrum</code> <code>Kanban</code> <code>Cisco Packet Tracer</code>
-</p>
-
 
 ---
 
@@ -149,4 +139,4 @@ const nico = {
 
 <!-- Mate GIF: MatiasG15 on Tenor, https://tenor.com/view/emoji-mate-mate-mates-emoji-tomando-mates-emoji-tomando-mate-gif-5995996843990285223.
 Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
-Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
+Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. Render mark: simple-icons/simple-icons, CC0. imas+ artwork supplied by Nicolás Giordano. -->
