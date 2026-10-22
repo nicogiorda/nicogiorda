@@ -1,14 +1,23 @@
-# Nico.exe has entered the chat.
+<h1 align="center">Nicolas Giordano</h1>
 
-<img align="right" src="./assets/cat-typing.gif" alt="A cat enthusiastically typing on a keyboard" width="100" />
+<p align="center"><samp>COMPUTER ENGINEERING @ UADE · SOFTWARE DEVELOPMENT</samp></p>
 
-**Computer Engineering student at UADE · Developer & Graphic Designer**
+<p align="center">
+  I'm a Computer Engineering student at <strong>Universidad Argentina de la Empresa (UADE)</strong>, focused on building web applications and exploring software systems.<br />
+  My projects bring together frontend development, backend APIs, databases, and experiments with neural simulation.
+</p>
 
-I study at **Universidad Argentina de la Empresa (UADE)** and combine software development with graphic design. I enjoy working on interfaces, visual identity, and collaborative projects — bringing together how things work and how they feel.
+<p align="center">
+  I also founded <strong>imas+</strong>, UADE's Computer Science Club.
+</p>
 
-*Making things work. Then making them look good.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" alt="Animated retro computer" width="120" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-giordano/) · [Projects](#-projects) · [imas+](#-community)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/">LinkedIn</a> · <a href="#-projects">Projects</a> · <a href="#-community">imas+</a>
+</p>
 
 ## `> whoami`
 
@@ -22,8 +31,9 @@ const nico = {
     qualificationYear: 2026,
   },
   community: { founder: "imas+ — UADE" },
-  building: ["Web applications", "UI & branding"],
-  background: "Freelance graphic design since 2021",
+  building: ["Web applications", "Backend APIs"],
+  exploring: ["Software architecture", "Neural simulation"],
+  also: "Graphic design & visual identity",
 };
 ```
 
@@ -49,7 +59,7 @@ const nico = {
 
 A mobile-first application for university communities and events, helping students discover activities and connect through shared interests.
 
-**My role — Frontend Lead & Branding:** visual identity, interface design, and frontend development, with contributions to the backend. Built collaboratively with an eight-person team.
+**My role — Frontend Lead & Branding:** frontend development and interface implementation, with contributions to the backend. I also worked on the visual identity. Built collaboratively with an eight-person team.
 
 `React` `TypeScript` `Vite` `Node.js` `Prisma` `PostgreSQL`
 
@@ -67,7 +77,7 @@ A collaborative 3D Crossy Road-style browser experiment where a reduced fly conn
 
 ## `> toolbox`
 
-Technologies and tools from my academic, software, and design projects.
+Technologies and tools from my software and academic projects.
 
 **Languages & application development**
 
@@ -77,15 +87,15 @@ Technologies and tools from my academic, software, and design projects.
 
 <img src="./assets/stack-data.svg" alt="PostgreSQL, MongoDB, Redis, Neo4j, Prisma, Docker, Git" height="48" />
 
-**Design & visual identity**
+**Complementary skills — design tools**
 
 <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" height="48" />
 
 ## `> connect`
 
-Interested in software, design, or student communities? [Let's connect on LinkedIn.](https://www.linkedin.com/in/nicol%C3%A1s-giordano/)
+Interested in software development, technical projects, or student communities? [Let's connect on LinkedIn.](https://www.linkedin.com/in/nicol%C3%A1s-giordano/)
 
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/linkedin.svg" alt="Nicolás Giordano on LinkedIn" width="36" height="36" /></a>
 
-<!-- Intro animation: sindresorhus/sindresorhus (MIT), see assets/LICENSE-sindresorhus.txt.
+<!-- Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
 Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. imas+ artwork supplied by Nicolás Giordano. -->
