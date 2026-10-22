@@ -100,21 +100,45 @@ const nico = {
   </tbody>
 </table>
 
-## `> toolbox`
+<h2 align="center"><code>&gt; toolbox</code></h2>
 
-Technologies and tools from my software and academic projects.
+<p align="center">Languages, tools, and platforms I use across my projects.</p>
 
-**Languages & application development**
+<p align="center">
+  <strong>Languages</strong><br /><br />
+  <img src="./assets/stack-languages.svg" alt="Java, Python, JavaScript, TypeScript, HTML, CSS" width="192" height="28" />
+</p>
 
-<img src="./assets/stack-development.svg" alt="Java, Python, JavaScript, TypeScript, React, Vite, Node.js" width="225" height="28" />
+<p align="center">
+  <strong>Frameworks &amp; runtimes</strong><br /><br />
+  <img src="./assets/stack-frameworks.svg" alt="React, Vite, Node.js, Express, Spring, Tailwind CSS" width="192" height="28" />
+</p>
 
-**Databases & development tools**
+<p align="center">
+  <strong>Databases &amp; ORM</strong><br /><br />
+  <img src="./assets/stack-databases.svg" alt="PostgreSQL, MongoDB, Neo4j, Redis, Cassandra, Prisma, Supabase" width="225" height="28" />
+</p>
 
-<img src="./assets/stack-data.svg" alt="PostgreSQL, MongoDB, Redis, Neo4j, Prisma, Docker, Git" width="225" height="28" />
+<p align="center">
+  <strong>Version control &amp; deployment</strong><br /><br />
+  <img src="./assets/stack-platforms.svg" alt="Git, GitHub, Docker, Vercel" width="126" height="28" /><br /><code>Render</code>
+</p>
 
-**Design tools**
+<p align="center">
+  <strong>Design</strong><br /><br />
+  <img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
+</p>
 
-<img src="./assets/stack-design.svg" alt="Figma, Adobe Illustrator, Adobe Photoshop" width="94" height="28" />
+<p align="center">
+  <strong>Testing &amp; code quality</strong><br /><br />
+  <code>Vitest</code> <code>Testing Library</code> <code>ESLint</code> <code>Prettier</code>
+</p>
+
+<p align="center">
+  <strong>Workflow &amp; networking</strong><br /><br />
+  <code>Trello</code> <code>Scrum</code> <code>Kanban</code> <code>Cisco Packet Tracer</code>
+</p>
+
 
 ---
 
