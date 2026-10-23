@@ -102,9 +102,11 @@ const nico = {
 
 ## `> toolbox`
 
-Languages, tools, and platforms I use across my projects.
+<div align="center">
 
-<table width="100%">
+<p align="center">Languages, tools, and platforms I use across my projects.</p>
+
+<table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
       <strong>Languages</strong><br /><br />
@@ -137,6 +139,8 @@ Languages, tools, and platforms I use across my projects.
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
