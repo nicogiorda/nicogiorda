@@ -44,15 +44,16 @@ const nico = {
 
 ## `> connect`
 
-**Connect with me**
+<p align="center"><strong>Connect with me</strong></p>
 
-<p>
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28" /></a>
-  &nbsp; <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/">Nicolas Giordano on LinkedIn</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-giordano/"><img src="./assets/connect-linkedin.svg" alt="Connect with Nicolas Giordano on LinkedIn" width="150" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:nicolasgiordano1505@gmail.com"><img src="./assets/connect-email.svg" alt="Email Nicolas Giordano" width="150" height="44" /></a>
 </p>
-<p>
-  <a href="mailto:nicolasgiordano1505@gmail.com"><img src="./assets/email.svg" alt="Email" width="28" height="28" /></a>
-  &nbsp; <a href="mailto:nicolasgiordano1505@gmail.com">nicolasgiordano1505@gmail.com</a>
+
+<p align="center">
+  <samp><a href="mailto:nicolasgiordano1505@gmail.com">nicolasgiordano1505@gmail.com</a></samp>
 </p>
 
 ## `> community`
@@ -151,4 +152,4 @@ const nico = {
 
 <!-- Mate GIF: MatiasG15 on Tenor, https://tenor.com/view/emoji-mate-mate-mates-emoji-tomando-mates-emoji-tomando-mate-gif-5995996843990285223.
 Retro PC animation: TheDudeThatCode/TheDudeThatCode, Assets/PC.gif.
-Inspiration: Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. Render mark: simple-icons/simple-icons, CC0. imas+ artwork supplied by Nicolás Giordano. -->
+Inspiration: Ileriayo/ileriayo (centered contact badges), Thaiane/Thaiane (code introduction), vinitshahdeo/vinitshahdeo (personal and community sections), hedythedev/hedythedev (terminal-style headings), apoorvtyagi/apoorvtyagi (small animated details and stack icons). Icons: tandpfun/skill-icons, MIT. Render mark: simple-icons/simple-icons, CC0. imas+ artwork supplied by Nicolás Giordano. -->
